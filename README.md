@@ -6,7 +6,7 @@ o Descrição geral do projeto:
 o Nome e informações do aluno.
 - Luiz Felipe Galdino de Carvalho
 - RA: 24026568
-o Descrição do processo de desenvolvimento (desafios, decisões, etc.):
-- Foi desenvolvido em cerca de 1h sem auxilo de materiais externos, o que é claramente desconectado do mercado de trabalho.
+ Descrição do processo de desenvolvimento (desafios, decisões, etc.):
+- Foi desenvolvido em cerca de 2h sem auxilo de materiais externos, o que é claramente desconectado do mercado de trabalho.
 
 - #FECAP
