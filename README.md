@@ -1,4 +1,4 @@
-# Projeto de Programação Mobile - LuIz Felipe Galdino de Carvalho
+# Projeto de Programação Mobile - Luiz Felipe Galdino de Carvalho
 
 **RA:** 24026568  
 **Curso:** Análise e Desenvolvimento de Sistemas (3º Semestre)
